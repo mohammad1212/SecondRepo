@@ -1,6 +1,6 @@
 <?php
 
-
+public function () {}
 echo "Hello, Git!";
 
 
